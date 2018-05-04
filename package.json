@@ -21,9 +21,9 @@
     "node": ">= 0.10.x"
   },
   "dependencies": {
-    "mongodb": "2.2.12",
-    "ramda": "0.21.0",
-    "babel-polyfill": "^6.26.0"
+    "babel-polyfill": "^6.26.0",
+    "mongodb": "^3.0.7",
+    "ramda": "0.21.0"
   },
   "devDependencies": {
     "babel-cli": "^6.26.0",
