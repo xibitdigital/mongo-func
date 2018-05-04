@@ -22,7 +22,7 @@
   },
   "dependencies": {
     "babel-polyfill": "^6.26.0",
-    "mongodb": "^3.0.7",
+    "mongodb": "^2.2.34",
     "ramda": "0.21.0"
   },
   "devDependencies": {
